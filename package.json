@@ -1,0 +1,20 @@
+{
+  "name": "@anyup/uni-http",
+  "version": "1.0.0",
+  "description": "uniapp http library",
+  "main": "index.js",
+  "module": "index.js",
+  "browser": "index.js",
+  "scripts": {
+    "publish": "npm publish --access=public",
+    "publish:revert": "npm unpublish @anyup/uni-http@version"
+  },
+  "keywords": [
+    "uniapp",
+    "library",
+    "http",
+    "anyup"
+  ],
+  "author": "anyup",
+  "license": "MIT"
+}
