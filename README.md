@@ -7,7 +7,7 @@
 <p align="center">一个基于 promise 的，轻量且强大的 http 网络库</p>
 
 <p align="center">
-  🔥 <a href="https://uniapp.anyup.cn/zh/js/http.html">文档网站（国内）</a>
+  🔥 <a href="https://uniapp.anyup.cn/docs/zh/js/http.html">文档网站（国内）</a>
   &nbsp;
   🔥 <a href="https://anyup.cn/zh/js/http.html">文档网站（国外源）</a>
 </p>
