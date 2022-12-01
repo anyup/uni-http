@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="logo" src="https://static.anyup.cn/anyup/images/logo.png" width="120" style="margin-bottom: 10px;">
+    <img alt="logo" src="https://www.anyup.cn/static/anyup/images/logo.png" width="120" style="margin-bottom: 10px;">
 </p>
 
 <h1 align="center">anyup design</h1>
@@ -7,9 +7,7 @@
 <p align="center">一个基于 promise 的，轻量且强大的 http 网络库</p>
 
 <p align="center">
-  🔥 <a href="https://uniapp.anyup.cn/docs/zh/js/http.html">文档网站（国内）</a>
-  &nbsp;
-  🔥 <a href="https://anyup.cn/zh/js/http.html">文档网站（国外源）</a>
+  🔥 <a href="https://www.anyup.cn/docs/zh/js/http.html">文档网站</a>
 </p>
 
 ## 简介
@@ -36,7 +34,7 @@ npm update @anyup/uni-http
 ## 一、快速上手
 
 ```js
-import { Http } from '@/uniui/index.js'
+import { Http } from '@anyup/uni-http'
 
 const http = new Http().setBaseURL('').setHeader({ 'Content-Type': 'application/json;charset=UTF-8' })
 
@@ -64,7 +62,7 @@ async uploadFile() {
 
 ```js
 // http.js
-import { Http } from '@/uniui/index.js'
+import { Http } from '@anyup/uni-http'
 
 const header = {}
 const baseURL = ''
