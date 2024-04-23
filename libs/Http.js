@@ -1,7 +1,7 @@
 /**
  * 通用uni-app网络请求
  * 基于 Promise 对象实现更简单的 request 使用方式，支持请求和响应拦截
- * @author qiaomingxing
+ * @author anyup
  */
 const CONTENT_TYPE = {
   json: 'application/json;charset=UTF-8',
