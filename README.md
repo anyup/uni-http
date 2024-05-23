@@ -6,9 +6,9 @@
 
 <p align="center">🔥 一个基于 promise 的，轻量且强大的 http 网络库</p>
 
-<!-- <p align="center">
-  🔥 <a href="https://www.anyup.cn/docs/zh/js/http-alone.html">文档网站</a>
-</p> -->
+<p align="center">
+  🔥 <a href="https://www.anyup.cn/site/zh/uni-http/guide/introduce.html">文档网站</a>
+</p>
 
 ## 一. 简介
 
